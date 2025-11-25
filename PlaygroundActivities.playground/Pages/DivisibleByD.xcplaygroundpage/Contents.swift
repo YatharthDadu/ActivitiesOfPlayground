@@ -11,7 +11,7 @@ func divisibleByD(number: Int, divisor: Int) -> String
     return "I am \(number) and I am not divisible by \(divisor)"
 }
 
-print(divisibleByD(number: 22, divisor: 123))
+print(divisibleByD(number: 22, divisor: 12))
 print(divisibleByD(number: 22, divisor: 11))
 print(divisibleByD(number: 11, divisor: 22))
 print(divisibleByD(number: 43, divisor: 21))
